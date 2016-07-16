@@ -23,5 +23,6 @@
     </form>
     <p>
         <img class="auto-style1" src="docker.jpg" /></p>
+    <img class="auto-style1" src="finaxys.png" /></p>
 </body>
 </html>
