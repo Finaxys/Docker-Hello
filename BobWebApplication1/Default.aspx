@@ -22,6 +22,6 @@
     </div>
     </form>
     <p>
-        <img class="auto-style1" src="file:///C:/Users/guillaume/Desktop/Docker-Hello/docker.jpg" /></p>
+        <img class="auto-style1" src="docker.jpg" /></p>
 </body>
 </html>
