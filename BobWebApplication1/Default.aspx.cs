@@ -11,17 +11,8 @@ namespace BobWebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            resultLabel.Text = "Running on " + Environment.MachineName;
+            containerid.Text = "I'm running into container : " + Environment.MachineName;
         }
 
-        protected void okButton_Click(object sender, EventArgs e)
-        {
-            string firstName, lastName, result; //single line declaring all veriables.
-            firstName = firstNameTextbox.Text; //getting the user's first name.
-            lastName = lastNameTextBox.Text; //getting the user's last name.
-            result = "Hello " + firstName + " " + lastName; //concatenate both
-            resultLabel.Text = result; //publish result. 
-
-        }
     }
 }

@@ -10,18 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <h1>HELLO DOCKER ASP.NET</h1>
-        What is your first name?&nbsp;
-        <asp:TextBox ID="firstNameTextbox" runat="server"></asp:TextBox>
-        <br />
-        <br />
-        What is your last name?&nbsp;
-        <asp:TextBox ID="lastNameTextBox" runat="server"></asp:TextBox>
-        <br />
-        <br />
-        <asp:Button ID="okButton" runat="server" OnClick="okButton_Click" Text="Click Me" />
-        <br />
-        <br />
-        <asp:Label ID="resultLabel" runat="server"></asp:Label>
+        
         <asp:Label ID="containerid" runat="server"></asp:Label>
     
     </div>
