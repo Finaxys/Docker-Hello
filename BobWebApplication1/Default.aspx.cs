@@ -11,7 +11,7 @@ namespace BobWebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            resultLabel.Text = "Running on " + Environment.MachineName;
         }
 
         protected void okButton_Click(object sender, EventArgs e)
@@ -21,6 +21,7 @@ namespace BobWebApplication1
             lastName = lastNameTextBox.Text; //getting the user's last name.
             result = "Hello " + firstName + " " + lastName; //concatenate both
             resultLabel.Text = result; //publish result. 
+
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\guillaume\Desktop\Docker-Hello\BobWebApplication1\bin\BobWebApplication1.dll.config
+C:\Users\guillaume\Desktop\Docker-Hello\BobWebApplication1\bin\BobWebApplication1.dll
+C:\Users\guillaume\Desktop\Docker-Hello\BobWebApplication1\bin\BobWebApplication1.pdb
+C:\Users\guillaume\Desktop\Docker-Hello\BobWebApplication1\obj\Debug\BobWebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\guillaume\Desktop\Docker-Hello\BobWebApplication1\obj\Debug\BobWebApplication1.dll
+C:\Users\guillaume\Desktop\Docker-Hello\BobWebApplication1\obj\Debug\BobWebApplication1.pdb
