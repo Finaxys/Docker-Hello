@@ -24,5 +24,7 @@
     <p>
         <img class="auto-style1" src="docker.jpg" /></p>
     <img class="auto-style1" src="finaxys.png" /></p>
+    <img class="auto-style1" src="6476660.png" /></p>
+    
 </body>
 </html>
