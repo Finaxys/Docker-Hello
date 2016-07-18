@@ -7,8 +7,8 @@
     <title></title>
     <style type="text/css">
         .auto-style1 {
-            width: 493px;
-            height: 318px;
+            width: 480px;
+            height: 289px;
         }
     </style>
 </head>
@@ -18,13 +18,15 @@
     <h1>HELLO DOCKER ASP.NET -Finaxys</h1>
         
         <asp:Label ID="containerid" runat="server"></asp:Label>
+     <p>
+        <img class="auto-style1" src="docker.jpg" /><img class="auto-style1" src="finaxys.png" /></p>
+    </p>
+    <p>
+    <img class="auto-style1" src="6476660.png" /></p>
+    </p>
     
     </div>
     </form>
-    <p>
-        <img class="auto-style1" src="docker.jpg" /></p>
-    <img class="auto-style1" src="finaxys.png" /></p>
-    <img class="auto-style1" src="6476660.png" /></p>
-    
+   
 </body>
 </html>
