@@ -6,7 +6,7 @@ RUN cd c:\\inetpub\\wwwroot
 RUN mkdir demo
 RUN cd demo
 RUN mkdir website
-COPY ./BobWebApplication1/ c:\\inetpub\\wwwroot\\demo\\website
+COPY ./FinaxysMeetup/ c:\\inetpub\\wwwroot\\demo\\website
 RUN /windows/system32/inetsrv/appcmd.exe set vdir "Default Web Site/" -physicalPath:"c:\inetpub\wwwroot\demo\website"
 
 CMD ["cmd"]
