@@ -11,7 +11,7 @@ namespace BobWebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            containerid.Text = "I'm running into this container : " + Environment.MachineName;
+            containerid.Text = "Allez l'om I'm running into this container : " + Environment.MachineName;
         }
 
     }
